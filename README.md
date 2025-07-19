@@ -30,4 +30,11 @@ cd crthsh-subfinder
 pipx install .
 ```
 
+# Usages
+
+| Option         | Description                                     | Example       |
+| -------------- | ----------------------------------------------- | ------------- |
+| `<domain>`     | Target domain to find subdomains for (required) | `example.com` |
+| `-o, --output` | Save the output subdomains to a file            | `-o subs.txt` |
+| `-h, --help`   | Show help message and exit                      | `-h`          |
 
