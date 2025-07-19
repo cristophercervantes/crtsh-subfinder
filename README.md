@@ -22,11 +22,12 @@ Useful for **bug bounty recon, penetration testing, and OSINT**.
 ## 📦 Installation
 
 ### 1️⃣ Install via pipx (recommended)
+```
+git clone https://github.com/cristophercervantes/crtsh-subfinder.git
 
-```bash
-# Download & unzip the project
-unzip crtsh_subfinder_retry.zip
-cd crtsh_subfinder_retry
+cd crthsh-subfinder
 
-# Install globally
 pipx install .
+```
+
+
